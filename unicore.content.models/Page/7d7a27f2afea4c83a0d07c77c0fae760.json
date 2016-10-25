@@ -5,13 +5,13 @@
   "title": "Respondemos a las preguntas m\u00e1s frecuentes sobre el uso de las redes sociales e Internet.", 
   "primary_category": "f13fbfd4d86c4ef598d48026966aa275", 
   "created_at": "2015-10-21T12:27:45+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2016-05-16T11:26:10.822997+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-10-25T09:49:15.674887+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
