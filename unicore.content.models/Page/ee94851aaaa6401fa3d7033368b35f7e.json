@@ -6,12 +6,12 @@
   "primary_category": "aff25fa42d514fddb81d31f561982ae4", 
   "created_at": "2015-10-21T14:21:15+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-10-25T09:48:42.654593+00:00", 
+  "modified_at": "2017-02-24T09:14:46.729344+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "cf39d37b1ec0436698268f7d7b9932b8", 
   "published": null, 
-  "position": 6, 
+  "position": 19, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "respuesta-las-solicitudes-de-envio-de-fotografias", 
   "uuid": "ee94851aaaa6401fa3d7033368b35f7e"
