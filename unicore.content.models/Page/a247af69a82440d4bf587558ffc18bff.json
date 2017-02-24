@@ -6,12 +6,12 @@
   "primary_category": "985243e822734aaa95402d358ca18c84", 
   "created_at": "2016-01-26T09:33:39.161697+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-01-26T09:33:39.161697+00:00", 
+  "modified_at": "2017-02-24T09:13:41.807957+00:00", 
   "_version": {
     "package_version": "1.5.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "7b119e6750b34751b9d2ac24a5e0c6de", 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how_Internet_ready_are_you", 
   "uuid": "a247af69a82440d4bf587558ffc18bff"
